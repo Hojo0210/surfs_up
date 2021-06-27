@@ -6,5 +6,6 @@ An analysis was performed using the "hawaii.sqlite" file to determine the temper
 ## Results
 -- 
 ![Alt Text](https://github.com/Hojo0210/surfs_up/blob/main/Screenshot%20(11).png)![Alt Text](https://github.com/Hojo0210/surfs_up/blob/main/Screenshot%20(12).png)
+![Alt Text](https://github.com/Hojo0210/surfs_up/blob/main/Screenshot%20(13).png)![Alt Text](https://github.com/Hojo0210/surfs_up/blob/main/Screenshot%20(14).png)
 
 ## Summary
